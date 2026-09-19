@@ -32,7 +32,14 @@ GEF doesn't fix probabilistic models; it cages them in a deterministic mainframe
 
 ---
 
-## Verifiable Artifacts & Specs
-* [Governed Execution Framework (GEF).pdf](./Governed%20Execution%20Framework%20(GEF).pdf) — Core architectural blueprint & patent narrative
-* [Master Brief.pdf](./Master%20Brief.pdf) — Enterprise CISO / CFO macro-positioning
-* [DEM Volume 2 Spec](./Directional%20Equilibrium%20Model%20Volume2.md) — Time-variant memory & low-pass filtering mathematics
+## Repository Index & Verifiable Artifacts
+
+| File Name | Type | Scope / Focus |
+| :--- | :--- | :--- |
+| [Whitepaper Draft Epistemic Bounds to Silicon Fate.pdf](./Whitepaper%20Draft%20Epistemic%20Bounds%20to%20Silicon%20Fate.pdf) | PDF | Primary narrative marrying CBEA™ to z/OS CEX/SMF proof |
+| [Governed Execution Framework (GEF).pdf](./Governed%20Execution%20Framework%20(GEF).pdf) | PDF | Core patent architecture & deterministic safety shell spec |
+| [Master Brief.pdf](./Master%20Brief.pdf) | PDF | Executive CISO / CFO macro-positioning & enterprise moat |
+| [Directional Equilibrium Model (DEM Volume 1).md](./Directional%20Equilibrium%20Model%20(DEM%20Volume%201).md) | Markdown | Core mechanics & micro-convergence reference ($3 \to 7(\wedge) \to 6 \to 9$) |
+| [Directional Equilibrium Model (DEM Volume 1).pdf](./Directional%20Equilibrium%20Model%20(DEM%20Volume%201).pdf) | PDF | Volume 1 rendered technical reference spec |
+| [Directional Equilibrium Model Volume2.md](./Directional%20Equilibrium%20Model%20Volume2.md) | Markdown | Time-series, low-pass memory $N(t)$, and temporal bounding specs |
+| [Directional Equilibrium Model (DEM Volume 2).pdf](./Directional%20Equilibrium%20Model%20(DEM%20Volume%202).pdf) | PDF | Volume 2 rendered technical reference spec |
